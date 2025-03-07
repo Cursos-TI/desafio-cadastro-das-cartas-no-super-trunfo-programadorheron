@@ -13,7 +13,8 @@ int main() {
     float pib1;
     int pontosT;
 
-    printf("
+    printf("Entre com da carta: \n");
+    scanf(
     
     // Cadastro das Cartas:
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
